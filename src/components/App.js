@@ -1,22 +1,22 @@
-
 import '../styles/App.css';
+import Banner from './adn_1_topPage/Banner'
+import TopContent from './adn_1_topPage/TopContent'
+import Contentbutton from './adn_2_middlePage/ContentButton'
+import Categorybutton from './adn_2_middlePage/CategoryButton'
+import MainContent from './adn_3_contentPage/MainContent'
+import Footer from './adn_3_contentPage/Footer'
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Banner/>
+      <TopContent/>
+      <Contentbutton />
+      <Categorybutton />
+      <MainContent />
+      <Footer />
     </div>
   );
 }
