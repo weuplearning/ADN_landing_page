@@ -1,8 +1,16 @@
+import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import '../../styles/content.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-const theme = createTheme({
+
+function Content() {
+
+  const [course, setCourse] = useState(false);
+  const [webinaire, setWebinaire] = useState(false);
+  const [video, setVideo] = useState(false);
+
+  const theme = createTheme({
     palette: {
       primary: {
         main: '#bb4926'
@@ -23,26 +31,31 @@ const buttonStyle = {
     margin: '1em'
   };
 
-function content() {
 	return <div className='adn-content'>
         <p className='adn-content-banner'>Définissez le type de contenu que vous souhaitez découvrir</p>
         <div className='adn-content-button_box'>
             <ThemeProvider theme={theme}>
                   <Button
                     style={buttonStyle} 
-                    variant="contained" color="primary"
+                    variant={course ? "contained" : "outlined"}
+                    color="primary"
+                    onClick={() => setCourse(!course)}
                   >
                       Cours
                   </Button>
                   <Button
                     style={buttonStyle} 
-                    variant="outlined" color="primary"
+                    variant={webinaire ? "contained" : "outlined"}
+                    color="primary"
+                    onClick={() => setWebinaire(!webinaire)}
                   >
                       Vidéos
                   </Button>
                   <Button
                     style={buttonStyle} 
-                    variant="outlined" color="primary"
+                    variant={video ? "contained" : "outlined"} 
+                    color="primary"
+                    onClick={() => setVideo(!video)}
                   >
                       Webinaires
                   </Button>
@@ -51,4 +64,4 @@ function content() {
     </div>
 }
 
-export default content
+export default Content

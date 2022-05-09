@@ -1,9 +1,15 @@
 .adn-main{
     background-color: #2E3946;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.adn-main-box{
     padding: 3em;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    width: 90%;
 }
 
 .adn-main-thumbnail-box {
