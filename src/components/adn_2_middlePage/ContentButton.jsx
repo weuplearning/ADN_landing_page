@@ -5,44 +5,47 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 const theme = createTheme({
     palette: {
       primary: {
-        // Purple and green play nicely together.
-        main: '#000'
-      },
-      secondary: {
-        // This is green.A700 as hex.
-        main: '#11cb5f',
-      },
-      activeButton: {
-        // This is green.A700 as hex.
-        main: '#f00',
-      },
-      inactiveButton: {
-        // This is green.A700 as hex.
-        main: '#f00',
+        main: '#bb4926'
       },
     },
   });
 
-
-console.log(theme.palette.neutral)
+const buttonStyle = {
+    maxWidth: '250px',
+    maxHeight: '60px',
+    minWidth: '250px',
+    minHeight: '60px',
+    fontSize: '1.2em',
+    fontWeight: 'bold',
+    textTransform: 'capitalize',
+    borderRadius: "15px",
+    border:'3px solid #bb4926',
+    margin: '1em'
+  };
 
 function content() {
 	return <div className='adn-content'>
-        <div className='adn-content-banner'>
-            <p>Définissez le type de contenu que vous souhaitez découvrir</p>
-        </div>
+        <p className='adn-content-banner'>Définissez le type de contenu que vous souhaitez découvrir</p>
         <div className='adn-content-button_box'>
             <ThemeProvider theme={theme}>
-                <Button variant="contained" color="primary">
-                {/* <Button variant="contained" color={theme.palette.primary.main}> */}
-                    Cours
-                </Button>
-                <Button variant="outlined" color="secondary">
-                    Vidéos
-                </Button>
-                <Button variant="outlined" color="inactiveButton">
-                    Webinaires
-                </Button>
+                  <Button
+                    style={buttonStyle} 
+                    variant="contained" color="primary"
+                  >
+                      Cours
+                  </Button>
+                  <Button
+                    style={buttonStyle} 
+                    variant="outlined" color="primary"
+                  >
+                      Vidéos
+                  </Button>
+                  <Button
+                    style={buttonStyle} 
+                    variant="outlined" color="primary"
+                  >
+                      Webinaires
+                  </Button>
             </ThemeProvider>
         </div>
     </div>

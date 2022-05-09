@@ -1,0 +1,15 @@
+.adn-category-banner{
+    background: #ff9900;
+color: #fff;
+font-style: italic;
+font-size: 1.4em;
+padding: 2em;
+text-align: center;
+}
+
+.adn-category-button_box, .adn-subcategory-button_box{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2em;
+    flex-wrap: wrap;
+}

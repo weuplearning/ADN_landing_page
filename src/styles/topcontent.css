@@ -1,0 +1,35 @@
+.adn-top_content-top{
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+.adn-top_content-top-title{
+    text-align: center;
+    color: #FF9900;
+    margin-top: 2em;
+}
+
+.adn-top_content-top-textcontent{
+    width: 80%;
+    margin: auto;
+    font-size: 1.2em;
+    line-height: 1.3em;
+}
+
+.adn-top_content-bottom{
+    background-position: center;
+    height: 540px;
+    background-size: cover; 
+}
+
+.adn-top_content-bottom-title{
+    padding-top: 2em;
+    text-align: center;
+    font-size: 2em;
+}
+
+.adn-top_content-bottom-image-image{
+    margin: auto;
+    display: block;
+    width: 500px;
+}

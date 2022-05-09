@@ -1,0 +1,10 @@
+.adn-footer{
+    background-size: cover;
+    background-position: center;
+    height: 205px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
