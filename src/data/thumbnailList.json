@@ -1,33 +1,33 @@
 [
     {
         "id": "course-1",
-        "type": "course",
+        "type": "cours",
         "category": "marketplace",
         "subCategory": "amazon",
         "title": "Amazon Web Service",
-        "image": "../../assets/simulation_image.png",
+        "image": "simulateur_img.png",
         "publishedDate" : "2020-11-21",
         "tags": "AWS"
 
     },
     {
         "id": "course-2",
-        "type": "course",
+        "type": "cours",
         "category": "marketing",
         "subCategory": "growth",
         "title": "Placer les clients au cœur de la stratégie commerciale",
-        "image": "../../assets/simulation_image.png",
+        "image": "simulateur_img.png",
         "publishedDate" : "2020-11-22",
         "tags": "business plan"
 
     },
     {
         "id": "course-3",
-        "type": "course",
+        "type": "cours",
         "category": "sales",
         "subCategory": "sales",
         "title": "Définir sa stratégie de ventes",
-        "image": "../../assets/simulation_image.png",
+        "image": "simulateur_img.png",
         "publishedDate" : "2022-11-22",
         "tags": "business plan"
 
@@ -38,7 +38,7 @@
         "category": "marketplace",
         "subCategory": "amazon",
         "title": "Etendez votre activité locale en ligne",
-        "image": "../../assets/simulation_image.png",
+        "image": "simulateur_img.png",
         "publishedDate" : "2020-10-21",
         "tags": "boutiques Amazon"
     },
@@ -48,9 +48,68 @@
         "category": "marketing",
         "subCategory": "growth",
         "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
-        "image": "../../assets/simulation_image.png",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "id": "webinaire-2",
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
         "publishedDate" : "2019-10-21",
         "tags": "acquisition clients"
     }
-
 ]

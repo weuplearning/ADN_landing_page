@@ -4,7 +4,7 @@ import TopContent from './adn_1_topPage/TopContent'
 import Contentbutton from './adn_2_middlePage/ContentButton'
 import Categorybutton from './adn_2_middlePage/CategoryButton'
 import MainContent from './adn_3_contentPage/MainContent'
-import Footer from './adn_3_contentPage/Footer'
+
 
 
 
@@ -16,7 +16,6 @@ function App() {
       <Contentbutton />
       <Categorybutton />
       <MainContent />
-      <Footer />
     </div>
   );
 }

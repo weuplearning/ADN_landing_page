@@ -1,27 +1,10 @@
-import Button from '@mui/material/Button';
+import React, { useState } from 'react';
 import '../../styles/main.css'
-import simulateur from '../../assets/simulateur_img.png'
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+import Thumbnail from './Thumbnail';
+import data from '../../data/thumbnailList.json'
+import Footer from './Footer'
 
-const theme = createTheme({
-    palette: {
-      primary: {
-        main: '#ff9900'
-      },
-    },
-  });
 
-const buttonStyle = {
-    maxWidth: '250px',
-    maxHeight: '60px',
-    minWidth: '250px',
-    minHeight: '60px',
-    fontSize: '1.2em',
-    fontWeight: 'bold',
-    textTransform: 'capitalize',
-    borderRadius: "15px",
-    margin: '1em',
-};
 
 
 // TODO https://www.delftstack.com/fr/howto/javascript/convert-string-to-date-in-javascript/ date.Parse for ordering format YYYY-MM-DD
@@ -29,75 +12,30 @@ const buttonStyle = {
 // faire remonter tous les états des categories et contenus et type
 //renommer dans le JSON, category et sub et type en camelCase comme dans le state
 
-function main() {
-	return <div className='adn-main'>
-          <div className='adn-main-box'>
-              <div className='adn-main-thumbnail-box'>
-                <div className='adn-main-thumbnail'>
-                    <p className='adn-main-thumbnail-category'>cours</p>
-                    <div className='adn-main-thumbnail-flex_container'>
-                        <img src={simulateur} className='adn-main-image' alt='thumbnail'></img>
-                        <h3 className='adn-main-thumbnail-title'>
-                          Titre de la vidéo
-                        </h3>
-                        <ThemeProvider theme={theme}>
-                            <Button style={buttonStyle} variant="contained" color="primary">
-                                Découvrir
-                            </Button>
-                        </ThemeProvider>
-                    </div>
+  function Main() {
+
+  const [count, setCount] = useState(9);
+
+	return <div className='adn-main-and-footer'>
+            <div className='adn-main'>
+              <div className='adn-main-box'>
+                  {data.map(({ id, type, title, image }, index) => 
+                    index < count ? (
+                          <Thumbnail
+                            id={id}
+                            type={type}
+                            title={title}
+                            image={image}
+                          />
+                        ) : null
+                    )}
                   </div>
                 </div>
-                <div className='adn-main-thumbnail-box'>
-                <div className='adn-main-thumbnail'>
-                    <p className='adn-main-thumbnail-category'>cours</p>
-                    <div className='adn-main-thumbnail-flex_container'>
-                        <img src={simulateur} className='adn-main-image' alt='thumbnail'></img>
-                        <h3 className='adn-main-thumbnail-title'>
-                          Titre de la vidéo
-                        </h3>
-                        <ThemeProvider theme={theme}>
-                            <Button style={buttonStyle} variant="contained" color="primary">
-                                Découvrir
-                            </Button>
-                        </ThemeProvider>
-                    </div>
-                  </div>
-                </div>
-                <div className='adn-main-thumbnail-box'>
-                <div className='adn-main-thumbnail'>
-                    <p className='adn-main-thumbnail-category'>cours</p>
-                    <div className='adn-main-thumbnail-flex_container'>
-                        <img src={simulateur} className='adn-main-image' alt='thumbnail'></img>
-                        <h3 className='adn-main-thumbnail-title'>
-                          Titre de la vidéo
-                        </h3>
-                        <ThemeProvider theme={theme}>
-                            <Button style={buttonStyle} variant="contained" color="primary">
-                                Découvrir
-                            </Button>
-                        </ThemeProvider>
-                    </div>
-                  </div>
-                </div>
-                <div className='adn-main-thumbnail-box'>
-                <div className='adn-main-thumbnail'>
-                    <p className='adn-main-thumbnail-category'>cours</p>
-                    <div className='adn-main-thumbnail-flex_container'>
-                        <img src={simulateur} className='adn-main-image' alt='thumbnail'></img>
-                        <h3 className='adn-main-thumbnail-title'>
-                          Titre de la vidéo
-                        </h3>
-                        <ThemeProvider theme={theme}>
-                            <Button style={buttonStyle} variant="contained" color="primary">
-                                Découvrir
-                            </Button>
-                        </ThemeProvider>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <Footer
+                count={count}
+                setCount={setCount}
+              />
             </div>
 }
 
-export default main
+export default Main

@@ -24,14 +24,20 @@ const theme = createTheme({
     color:'#ff9900'
   };
 
-function footer() {
+function Footer({count, setCount}) {
 	return <div className='adn-footer' style={{ backgroundImage: `url(${backgroundFooter})` }}>
                     <ThemeProvider theme={theme}>
-                        <Button style={buttonStyle} className='adn-footerl-button' variant="contained" color="primary">
+                        <Button 
+                        style={buttonStyle} 
+                        className='adn-footerl-button' 
+                        variant="contained" 
+                        color="primary"
+                        onClick={() => setCount(count + 9)}
+                        >
                             Voir plus
                         </Button>
                     </ThemeProvider>
             </div>
 }
 
-export default footer
+export default Footer
