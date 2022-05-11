@@ -1,5 +1,5 @@
 import Button from '@mui/material/Button';
-import backgroundFooter from '../../assets/footer.svg'
+import backgroundFooter from '../../assets/footer.png'
 import '../../styles/footer.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 

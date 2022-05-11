@@ -1,5 +1,5 @@
-import backgroundTop from '../../assets/bg_top.svg'
-import backgroundBottom from '../../assets/bg_bottom.svg'
+import backgroundTop from '../../assets/bg_top.png'
+import backgroundBottom from '../../assets/bg_bottom.png'
 import simulateur from '../../assets/simulateur_img.png'
 import '../../styles/topcontent.css'
 
