@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import Subcategory from './SubCategoryButton';
 import '../../styles/category.css'
@@ -6,15 +5,62 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 
 // TODO condition for button colors
-function Category() {
+function Category(props) {
 
-    const [strategy, setStrategy] = useState(false);
-    const [marketing, setMarketing] = useState(false);
-    const [corporate, setCorporate] = useState(false);
-    const [operations, setOperations] = useState(false);
-    const [sales, setSales] = useState(false);
-    const [tech, setTech] = useState(false);
-    const [marketplace, setMarketplace] = useState(false);
+    const {
+        strategy, 
+        setStrategy,
+        marketing,
+        setMarketing,
+        corporate,
+        setCorporate,
+        operations, 
+        setOperations,
+        sales, 
+        setSales,
+        tech, 
+        setTech,
+        marketplace, 
+        setMarketplace,
+        startingABusiness, 
+        setStartingABusiness,
+        businessPlanning, 
+        setBusinessPlanning,
+        growth, 
+        setGrowth,
+        brand, 
+        setBrand,
+        socialNetwork, 
+        setSocialNetwork,
+        finance, 
+        setFinance,
+        legal, 
+        setLegal,
+        hiring, 
+        setHiring,
+        management, 
+        setManagement,
+        processes, 
+        setProcesses,
+        shipping, 
+        setShipping,
+        exporting, 
+        setExporting,
+        sellingAProduct, 
+        setSellingAProduct,
+        salesSub, 
+        setSalesSub,
+        salesOps, 
+        setSalesOps,
+        website, 
+        setWebsite,
+        data, 
+        setData,
+        amazon, 
+        setAmazon
+    } = props
+
+
 
     const theme = createTheme({
         palette: {
@@ -86,6 +132,42 @@ function Category() {
                 sales={sales}
                 tech={tech}
                 marketplace={marketplace}
+                startingABusiness={startingABusiness}
+                setStartingABusiness={setStartingABusiness}
+                businessPlanning={businessPlanning} 
+                setBusinessPlanning={setBusinessPlanning}
+                growth={growth} 
+                setGrowth={setGrowth}
+                brand={brand} 
+                setBrand={setBrand}
+                socialNetwork={socialNetwork} 
+                setSocialNetwork={setSocialNetwork}
+                finance={finance} 
+                setFinance={setFinance}
+                legal={legal} 
+                setLegal={setLegal}
+                hiring={hiring} 
+                setHiring={setHiring}
+                management={management} 
+                setManagement={setManagement}
+                processes={processes} 
+                setProcesses={setProcesses}
+                shipping={shipping} 
+                setShipping={setShipping}
+                exporting={exporting} 
+                setExporting={setExporting}
+                sellingAProduct={sellingAProduct} 
+                setSellingAProduct={setSellingAProduct}
+                salesSub={salesSub} 
+                setSalesSub={setSalesSub}
+                salesOps={salesOps} 
+                setSalesOps={setSalesOps}
+                website={website} 
+                setWebsite={setWebsite}
+                data={data} 
+                setData={setData}
+                amazon={amazon}
+                setAmazon={setAmazon}
                 />
             </div>
 }

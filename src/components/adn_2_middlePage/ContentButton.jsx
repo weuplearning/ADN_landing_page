@@ -1,14 +1,17 @@
-import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import '../../styles/content.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 
-function Content() {
-
-  const [course, setCourse] = useState(false);
-  const [webinaire, setWebinaire] = useState(false);
-  const [video, setVideo] = useState(false);
+function Content(props) {
+  const {
+    course,
+    setCourse,
+    webinaire,
+    setWebinaire,
+    video,
+    setVideo
+  } = props
 
   const theme = createTheme({
     palette: {
@@ -45,17 +48,17 @@ const buttonStyle = {
                   </Button>
                   <Button
                     style={buttonStyle} 
-                    variant={webinaire ? "contained" : "outlined"}
+                    variant={video ? "contained" : "outlined"}
                     color="primary"
-                    onClick={() => setWebinaire(!webinaire)}
+                    onClick={() => setVideo(!video)}
                   >
                       Vidéos
                   </Button>
                   <Button
                     style={buttonStyle} 
-                    variant={video ? "contained" : "outlined"} 
+                    variant={webinaire ? "contained" : "outlined"} 
                     color="primary"
-                    onClick={() => setVideo(!video)}
+                    onClick={() => setWebinaire(!webinaire)}
                   >
                       Webinaires
                   </Button>

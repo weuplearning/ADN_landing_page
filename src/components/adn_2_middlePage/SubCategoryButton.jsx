@@ -1,28 +1,54 @@
-import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import '../../styles/category.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 function Subcategory(props) {
 
-    const [startingABusiness, setStartingABusiness] = useState(false);
-    const [businessPlanning, setBusinessPlanning] = useState(false);
-    const [growth, setGrowth] = useState(false);
-    const [brand, setBrand] = useState(false);
-    const [socialNetwork, setSocialNetwork] = useState(false);
-    const [finance, setFinance] = useState(false);
-    const [legal, setLegal] = useState(false);
-    const [hiring, setHiring] = useState(false);
-    const [management, setManagement] = useState(false);
-    const [processes, setProcesses] = useState(false);
-    const [shipping, setShipping] = useState(false);
-    const [exporting, setExporting] = useState(false);
-    const [sellingAProduct, setSellingAProduct] = useState(false);
-    const [sales, setSales] = useState(false);
-    const [salesOps, setSalesOps] = useState(false);
-    const [website, setWebsite] = useState(false);
-    const [data, setData] = useState(false);
-    const [amazon, setAmazon] = useState(false);
+    const {
+        strategy, 
+        marketing,
+        corporate,
+        operations, 
+        sales, 
+        tech, 
+        marketplace, 
+        startingABusiness, 
+        setStartingABusiness,
+        businessPlanning, 
+        setBusinessPlanning,
+        growth, 
+        setGrowth,
+        brand, 
+        setBrand,
+        socialNetwork, 
+        setSocialNetwork,
+        finance, 
+        setFinance,
+        legal, 
+        setLegal,
+        hiring, 
+        setHiring,
+        management, 
+        setManagement,
+        processes, 
+        setProcesses,
+        shipping, 
+        setShipping,
+        exporting, 
+        setExporting,
+        sellingAProduct, 
+        setSellingAProduct,
+        salesSub, 
+        setSalesSub,
+        salesOps, 
+        setSalesOps,
+        website, 
+        setWebsite,
+        data, 
+        setData,
+        amazon, 
+        setAmazon
+    } = props
 
     const theme = createTheme({
         palette: {
@@ -52,7 +78,7 @@ function Subcategory(props) {
 
 	return  <div className='adn-subcategory-button_box'>
                 <ThemeProvider theme={theme}>
-                    {props.strategy && 
+                    {strategy && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={startingABusiness ? "contained" : "outlined"} 
@@ -66,7 +92,7 @@ function Subcategory(props) {
                             </Button>
                         </>
                     }
-                    {props.marketing && 
+                    {marketing && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={growth ? "contained" : "outlined"} 
@@ -85,7 +111,7 @@ function Subcategory(props) {
                             </Button>
                         </>
                     }
-                    {props.corporate && 
+                    {corporate && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={finance ? "contained" : "outlined"} 
@@ -109,7 +135,7 @@ function Subcategory(props) {
                             </Button>
                         </>
                     }
-                    {props.operations && 
+                    {operations && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={processes ? "contained" : "outlined"} 
@@ -128,7 +154,7 @@ function Subcategory(props) {
                             </Button>
                         </>
                     }
-                    {props.sales && 
+                    {sales && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={sellingAProduct ? "contained" : "outlined"} 
@@ -136,8 +162,8 @@ function Subcategory(props) {
                                 Selling a product
                             </Button>
                             <Button style={buttonStyleSubCat} 
-                            variant={sales ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setSales(!sales)}>
+                            variant={salesSub ? "contained" : "outlined"} 
+                            color="primary" onClick={() => setSalesSub(!salesSub)}>
                                 Sales
                             </Button>
                             <Button style={buttonStyleSubCat} 
@@ -147,7 +173,7 @@ function Subcategory(props) {
                             </Button>
                         </>
                     }
-                    {props.tech && 
+                    {tech && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={website ? "contained" : "outlined"} 
@@ -161,7 +187,7 @@ function Subcategory(props) {
                             </Button>   
                         </>
                     }
-                    {props.marketplace && 
+                    {marketplace && 
                         <>
                             <Button style={buttonStyleSubCat} 
                             variant={amazon ? "contained" : "outlined"} 
