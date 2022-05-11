@@ -5,8 +5,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 function Content(props) {
   const {
-    course,
-    setCourse,
+    cours,
+    setCours,
     webinaire,
     setWebinaire,
     video,
@@ -40,9 +40,9 @@ const buttonStyle = {
             <ThemeProvider theme={theme}>
                   <Button
                     style={buttonStyle} 
-                    variant={course ? "contained" : "outlined"}
+                    variant={cours ? "contained" : "outlined"}
                     color="primary"
-                    onClick={() => setCourse(!course)}
+                    onClick={() => setCours(!cours)}
                   >
                       Cours
                   </Button>

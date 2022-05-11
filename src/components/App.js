@@ -13,7 +13,7 @@ import MainContent from './adn_3_contentPage/MainContent'
 function App() {
 
   // state for content button
-  const [course, setCourse] = useState(false);
+  const [cours, setCours] = useState(false);
   const [webinaire, setWebinaire] = useState(false);
   const [video, setVideo] = useState(false);
 
@@ -52,8 +52,8 @@ function App() {
       <Banner/>
       <TopContent/>
       <Contentbutton
-        course={course}
-        setCourse={setCourse}
+        cours={cours}
+        setCours={setCours}
         webinaire={webinaire}
         setWebinaire={setWebinaire}
         video={video}
@@ -112,7 +112,7 @@ function App() {
         setAmazon={setAmazon}
       />
       <MainContent
-        course={course}
+        cours={cours}
         webinaire={webinaire}
         video={video}
         strategy={strategy}
