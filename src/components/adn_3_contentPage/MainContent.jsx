@@ -19,10 +19,10 @@ import Footer from './Footer'
 	return <div className='adn-main-and-footer'>
             <div className='adn-main'>
               <div className='adn-main-box'>
-                  {data.map(({ id, type, title, image }, index) => 
+                  {data.map(({type, title, image }, index) => 
                     index < count ? (
                           <Thumbnail
-                            id={id}
+                            key={type + index}
                             type={type}
                             title={title}
                             image={image}
