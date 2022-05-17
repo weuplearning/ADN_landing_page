@@ -7,6 +7,8 @@ import {connexionTable} from '../../data/connexionTable'
 
   function Main(props) {
 
+    contentData = window.props.data
+
     // state for number of thumbnail displayed
     const [count, setCount] = useState(9);
 

@@ -1,5 +1,5 @@
 import Button from '@mui/material/Button';
-import backgroundFooter from '../../assets/footer.png'
+// import backgroundFooter from '../../assets/footer.png'
 import '../../styles/footer.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
@@ -25,7 +25,8 @@ const theme = createTheme({
   };
 
 function Footer({count, setCount}) {
-	return <div className='adn-footer' style={{ backgroundImage: `url(${backgroundFooter})` }}>
+	return <div className='adn-footer' style={{ backgroundImage: `url(${window.props.images.footer})` }}>
+        {/* <div className='adn-footer' style={{ backgroundImage: `url(${backgroundFooter})` }}>*/}
                     <ThemeProvider theme={theme}>
                         <Button 
                         style={buttonStyle} 
