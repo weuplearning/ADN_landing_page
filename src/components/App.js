@@ -7,9 +7,6 @@ import Categorybutton from './adn_2_middlePage/CategoryButton'
 import MainContent from './adn_3_contentPage/MainContent'
 
 
-
-
-
 function App() {
 
   // state for content button
@@ -45,7 +42,6 @@ function App() {
   const [website, setWebsite] = useState(false);
   const [data, setData] = useState(false);
   const [amazon, setAmazon] = useState(false);
-
 
   return (
     <div className="App">

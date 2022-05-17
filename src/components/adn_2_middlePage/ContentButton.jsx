@@ -10,7 +10,7 @@ function Content(props) {
     webinaire,
     setWebinaire,
     video,
-    setVideo
+    setVideo,
   } = props
 
   const theme = createTheme({

@@ -1,0 +1,36 @@
+export const connexionTable = {
+    content : [
+       'cours', 
+       'webinaire',
+       'video', 
+    ],
+    category : [
+        'strategy', 
+        'marketing',
+        'corporate',
+        'operations', 
+        'sales', 
+        'tech', 
+        'marketplace', 
+    ],
+    subCategory : [
+        'startingABusiness', 
+        'businessPlanning', 
+        'growth', 
+        'brand', 
+        'socialNetwork', 
+        'finance', 
+        'legal', 
+        'hiring', 
+        'management', 
+        'processes', 
+        'shipping', 
+        'exporting', 
+        'sellingAProduct', 
+        'salesSub', 
+        'salesOps', 
+        'website', 
+        'data', 
+        'amazon', 
+    ]
+}
