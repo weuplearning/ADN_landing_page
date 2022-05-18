@@ -4,6 +4,7 @@ import '../../styles/footer.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const theme = createTheme({
+  
     palette: {
       primary: {
         main: '#fff'
@@ -25,7 +26,14 @@ const theme = createTheme({
   };
 
 function Footer({count, setCount}) {
-	return <div className='adn-footer' style={{ backgroundImage: `url(${backgroundFooter})` }}>
+
+  let imgSource = backgroundFooter
+	if (process.env.NODE_ENV !== 'development') {
+		imgSource = window.props.images.footer
+	}
+
+
+	return <div className='adn-footer' style={{ backgroundImage: `url(${imgSource})` }}>
                     <ThemeProvider theme={theme}>
                         <Button 
                         style={buttonStyle} 

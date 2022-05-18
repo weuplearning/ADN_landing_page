@@ -7,6 +7,11 @@ import {connexionTable} from '../../data/connexionTable'
 
   function Main(props) {
 
+    let data = contentData
+    if (process.env.NODE_ENV !== 'development') {
+      data = window.props.data
+    }
+
     // state for number of thumbnail displayed
     const [count, setCount] = useState(9);
 
@@ -38,7 +43,7 @@ import {connexionTable} from '../../data/connexionTable'
         <div className='adn-main'>
           <div className='adn-main-box'>
           {
-            contentData.map(({type, category, subCategory, title, image }, index) => 
+            data.map(({type, category, subCategory, title, image }, index) => 
             index < count ? (
             (!contentCount && !categoryCount && !subCategoryCount && 
               <Thumbnail
