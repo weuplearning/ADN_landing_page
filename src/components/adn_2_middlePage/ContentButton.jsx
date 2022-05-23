@@ -14,19 +14,19 @@ function Content(props) {
         <p className='adn-content-banner'>Définissez le type de contenu que vous souhaitez découvrir</p>
         <div className='adn-content-button_box'>
                   <div 
-                    className={cours ? 'adn-content-button_box-button button-active' : 'adn-content-button_box-button'}  
+                    className={cours ? 'adn-content-button_box-button content-button-active' : 'adn-content-button_box-button'}  
                     onClick={() => setCours(!cours)}
                   >
                       Cours
                   </div>
                   <div 
-                    className={video ? 'adn-content-button_box-button button-active' : 'adn-content-button_box-button'} 
+                    className={video ? 'adn-content-button_box-button content-button-active' : 'adn-content-button_box-button'} 
                     onClick={() => setVideo(!video)}
                   >
                       Vidéos
                   </div>
                   <div 
-                    className={webinaire ? 'adn-content-button_box-button button-active' : 'adn-content-button_box-button'} 
+                    className={webinaire ? 'adn-content-button_box-button content-button-active' : 'adn-content-button_box-button'} 
                     onClick={() => setWebinaire(!webinaire)}
                   >
                       Webinaires

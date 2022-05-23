@@ -7,6 +7,19 @@ import {connexionTable} from '../../data/connexionTable'
 
   function Main(props) {
 
+    //quickFix to remove '0000' nodes
+    const thumbnailNodes = document.getElementsByClassName("adn-main-box")[0]
+    console.log(thumbnailNodes)
+    if (thumbnailNodes) {
+      thumbnailNodes.childNodes.forEach(node => {
+        if (node.textContent === '0') {
+          console.log(node)
+        }
+    })
+
+  }
+
+
     let data = contentData
     if (process.env.NODE_ENV !== 'development') {
       data = window.props.data
