@@ -3,7 +3,6 @@ import Subcategory from './SubCategoryButton';
 import '../../styles/category.css'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-
 // TODO condition for button colors
 function Category(props) {
 
@@ -60,6 +59,44 @@ function Category(props) {
         setAmazon
     } = props
 
+    const connexionTableCategory = {
+        strategy : setStrategy,
+        marketing : setMarketing,
+        corporate : setCorporate,
+        operations : setOperations,
+        sales : setSales,
+        tech : setTech,
+        marketplace : setMarketplace,
+        startingABusiness : setStartingABusiness,
+        businessPlanning : setBusinessPlanning,
+        growth : setGrowth,
+        brand : setBrand,
+        socialNetwork : setSocialNetwork,
+        finance : setFinance,
+        legal : setLegal,
+        hiring : setHiring,
+        management : setManagement,
+        processes : setProcesses,
+        shipping : setShipping,
+        exporting : setExporting,
+        sellingAProduct : setSellingAProduct,
+        salesSub : setSalesSub,
+        salesOps : setSalesOps,
+        website : setWebsite,
+        data : setData,
+        amazon : setAmazon
+    }
+
+    const resetButtonsState = (data, setData) => {
+        const categoryFilter = Object.keys(props).filter(key => props[key] === true);
+        categoryFilter.forEach( category => {
+            const functionSetData = connexionTableCategory[category]
+            functionSetData(false)
+        })
+        if (!categoryFilter.includes(data)) {
+            setData(true)
+        }
+    }
 
 
     const theme = createTheme({
@@ -89,37 +126,37 @@ function Category(props) {
                     <ThemeProvider theme={theme}>
                         <Button style={buttonStyle} 
                         variant={strategy ? "contained" : "outlined"} 
-                        color="primary" onClick={() => setStrategy(!strategy)}>
+                        color="primary" onClick={() => resetButtonsState("strategy", setStrategy)}>
                             Strategy
                         </Button>
                         <Button style={buttonStyle} 
                         variant={marketing ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setMarketing(!marketing)}>
+                        color="primary" onClick={() => resetButtonsState("marketing", setMarketing)}>
                             Marketing
                         </Button>
                         <Button style={buttonStyle} 
                         variant={corporate ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setCorporate(!corporate)}>
+                        color="primary" onClick={() => resetButtonsState("corporate", setCorporate)}>
                             Corporate
                         </Button>
                         <Button style={buttonStyle} 
                         variant={operations ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setOperations(!operations)}>
+                        color="primary" onClick={() => resetButtonsState("operations", setOperations)}>
                             Operations
                         </Button>
                         <Button style={buttonStyle} 
                         variant={sales ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setSales(!sales)}>
+                        color="primary" onClick={() => resetButtonsState("sales", setSales)}>
                             Sales
                         </Button>
                         <Button style={buttonStyle} 
                         variant={tech ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setTech(!tech)}>
+                        color="primary" onClick={() => resetButtonsState("tech", setTech)}>
                             Tech
                         </Button>
                         <Button style={buttonStyle} 
                         variant={marketplace ? "contained" : "outlined"}  
-                        color="primary" onClick={() => setMarketplace(!marketplace)}>
+                        color="primary" onClick={() => resetButtonsState("marketplace", setMarketplace)}>
                             Marketplace
                         </Button>
                     </ThemeProvider>

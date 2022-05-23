@@ -61,7 +61,7 @@ import {connexionTable} from '../../data/connexionTable'
                   image={image}
                 />
             )
-            ||  (contentCount && categoryCount && !subCategoryCount && (props[type] || props[category]) &&
+            ||  (contentCount && categoryCount && !subCategoryCount && (props[type] && props[category]) &&
               <Thumbnail
                   key={type + index}
                   type={type}
@@ -85,7 +85,7 @@ import {connexionTable} from '../../data/connexionTable'
                   image={image}
                 />
             )
-            ||  (contentCount && categoryCount && subCategoryCount && (props[type] || (props[category] && props[subCategory])) &&
+            ||  (contentCount && categoryCount && subCategoryCount && (props[type] && (props[category] && props[subCategory])) &&
             <Thumbnail
                   key={type + index}
                   type={type}
