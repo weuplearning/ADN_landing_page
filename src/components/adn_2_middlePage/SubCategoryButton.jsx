@@ -1,6 +1,4 @@
-import Button from '@mui/material/Button';
 import '../../styles/category.css'
-import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 function Subcategory(props) {
 
@@ -50,153 +48,125 @@ function Subcategory(props) {
         setAmazon
     } = props
 
-    const theme = createTheme({
-        palette: {
-          subCategory: {
-            main: '#2E3946'
-          },
-          primary: {
-            main: '#2E3946'
-          },
-        },
-      });
-    
-    const buttonStyleSubCat = {
-        maxWidth: '350px',
-        maxHeight: '60px',
-        minWidth: '350px',
-        minHeight: '60px',
-        fontSize: '1.2em',
-        fontWeight: 'bold',
-        textTransform: 'capitalize',
-        borderRadius: "15px",
-        border:'3px solid #2E3946',
-        margin: '1em'
-    };
-
-
-
 	return  <div className='adn-subcategory-button_box'>
-                <ThemeProvider theme={theme}>
                     {strategy && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={startingABusiness ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setStartingABusiness(!startingABusiness)}>
+                            <div 
+                            className={startingABusiness ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setStartingABusiness(!startingABusiness)}>
                                 Starting a business
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={businessPlanning ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setBusinessPlanning(!businessPlanning)}>
+                            </div>
+                            <div 
+                            className={businessPlanning ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setBusinessPlanning(!businessPlanning)}>
                                 Business planning
-                            </Button>
+                            </div>
                         </>
                     }
                     {marketing && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={growth ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setGrowth(!growth)}>
+                            <div 
+                            className={growth ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setGrowth(!growth)}>
                                 Growth
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={brand ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setBrand(!brand)}>
+                            </div>
+                            <div 
+                            className={brand ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setBrand(!brand)}>
                                 Brand
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={socialNetwork ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setSocialNetwork(!socialNetwork)}>
+                            </div>
+                            <div 
+                            className={socialNetwork ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setSocialNetwork(!socialNetwork)}>
                                 Social networks
-                            </Button>
+                            </div>
                         </>
                     }
                     {corporate && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={finance ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setFinance(!finance)}>
+                            <div 
+                            className={finance ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setFinance(!finance)}>
                                 Finance
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={legal ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setLegal(!legal)}>
+                            </div>
+                            <div 
+                            className={legal ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setLegal(!legal)}>
                                 Legal
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={hiring ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setHiring(!hiring)}>
+                            </div>
+                            <div 
+                            className={hiring ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setHiring(!hiring)}>
                                 Hiring
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={management ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setManagement(!management)}>
+                            </div>
+                            <div 
+                            className={management ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setManagement(!management)}>
                                 Management
-                            </Button>
+                            </div>
                         </>
                     }
                     {operations && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={processes ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setProcesses(!processes)}>
+                            <div 
+                            className={processes ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setProcesses(!processes)}>
                                 Processes
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={shipping ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setShipping(!shipping)}>
+                            </div>
+                            <div 
+                            className={shipping ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setShipping(!shipping)}>
                                 Shipping
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={exporting ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setExporting(!exporting)}>
+                            </div>
+                            <div 
+                            className={exporting ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setExporting(!exporting)}>
                                 Exporting
-                            </Button>
+                            </div>
                         </>
                     }
                     {sales && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={sellingAProduct ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setSellingAProduct(!sellingAProduct)}>
+                            <div 
+                            className={sellingAProduct ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setSellingAProduct(!sellingAProduct)}>
                                 Selling a product
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={salesSub ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setSalesSub(!salesSub)}>
+                            </div>
+                            <div 
+                            className={salesSub ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setSalesSub(!salesSub)}>
                                 Sales
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={salesOps ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setSalesOps(!salesOps)}>
+                            </div>
+                            <div 
+                            className={salesOps ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setSalesOps(!salesOps)}>
                             Sales Ops
-                            </Button>
+                            </div>
                         </>
                     }
                     {tech && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={website ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setWebsite(!website)}>
+                            <div 
+                            className={website ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setWebsite(!website)}>
                                 Website
-                            </Button>
-                            <Button style={buttonStyleSubCat} 
-                            variant={data ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setData(!data)}>
+                            </div>
+                            <div 
+                            className={data ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setData(!data)}>
                                 Data
-                            </Button>   
+                            </div>   
                         </>
                     }
                     {marketplace && 
                         <>
-                            <Button style={buttonStyleSubCat} 
-                            variant={amazon ? "contained" : "outlined"} 
-                            color="primary" onClick={() => setAmazon(!amazon)}>
+                            <div 
+                            className={amazon ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
+                            onClick={() => setAmazon(!amazon)}>
                                 Amazon
-                            </Button>    
+                            </div>    
                         </>
                     }
-                    </ThemeProvider>
                 </div>
 }
 

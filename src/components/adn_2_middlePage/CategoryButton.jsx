@@ -1,9 +1,6 @@
-import Button from '@mui/material/Button';
 import Subcategory from './SubCategoryButton';
 import '../../styles/category.css'
-import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-// TODO condition for button colors
 function Category(props) {
 
     const {
@@ -98,32 +95,45 @@ function Category(props) {
         }
     }
 
-
-    const theme = createTheme({
-        palette: {
-          primary: {
-            main: '#ff9900'
-          },
-        },
-      });
-    
-    const buttonStyle = {
-        maxWidth: '250px',
-        maxHeight: '60px',
-        minWidth: '250px',
-        minHeight: '60px',
-        fontSize: '1.2em',
-        fontWeight: 'bold',
-        textTransform: 'capitalize',
-        borderRadius: "15px",
-        border:'3px solid #ff9900',
-        margin: '1em'
-    };
-
 	return <div className='adn-category'>
                 <p className='adn-category-banner'>Définissez le type de catégorie qui vous intéresse</p>
                 <div className='adn-category-button_box'>
-                    <ThemeProvider theme={theme}>
+                        <div 
+                        className={strategy ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'}
+                         onClick={() => resetButtonsState("strategy", setStrategy)}>
+                            Strategy
+                        </div>
+                        <div 
+                        className={marketing ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'}
+                         onClick={() => resetButtonsState("marketing", setMarketing)}>
+                            Marketing
+                        </div>
+                        <div
+                        className={corporate ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
+                         onClick={() => resetButtonsState("corporate", setCorporate)}>
+                            Corporate
+                        </div>
+                        <div
+                        className={operations ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
+                         onClick={() => resetButtonsState("operations", setOperations)}>
+                            Operations
+                        </div>
+                        <div
+                        className={sales ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
+                         onClick={() => resetButtonsState("sales", setSales)}>
+                            Sales
+                        </div>
+                        <div
+                        className={tech ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
+                         onClick={() => resetButtonsState("tech", setTech)}>
+                            Tech
+                        </div>
+                        <div
+                        className={marketplace ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
+                         onClick={() => resetButtonsState("marketplace", setMarketplace)}>
+                            Marketplace
+                        </div>
+                    {/* <ThemeProvider theme={theme}>
                         <Button style={buttonStyle} 
                         variant={strategy ? "contained" : "outlined"} 
                         color="primary" onClick={() => resetButtonsState("strategy", setStrategy)}>
@@ -159,7 +169,7 @@ function Category(props) {
                         color="primary" onClick={() => resetButtonsState("marketplace", setMarketplace)}>
                             Marketplace
                         </Button>
-                    </ThemeProvider>
+                    </ThemeProvider> */}
                 </div>
                 <Subcategory
                 strategy={strategy}

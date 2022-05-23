@@ -18,3 +18,34 @@
     margin: 2em;
     flex-wrap: wrap;
 }
+
+
+.adn-content-button_box-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+    max-height: 60px;
+    min-width: 250px;
+    min-height: 60px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #bb4926;
+    text-transform: capitalize;
+    border-radius: 15px;
+    border:3px solid #bb4926;
+    margin: 1em;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+
+.button-active{
+    color: #fff;
+    background-color: #bb4926;
+}
+
+.adn-content-button_box-button:hover{
+    color: #fff;
+    background-color: #bb4926;
+}

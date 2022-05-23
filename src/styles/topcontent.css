@@ -1,13 +1,16 @@
 .adn-top_content-top{
+    margin-top: -30px;
+}
+
+.adn-top_content-top{
     height: 300px;
-    background-position: center;
     background-size: cover;
     margin-bottom: -26px;
 }
 .adn-top_content-top-title{
     text-align: center;
     color: #FF9900;
-    margin-top: 2em;
+    margin: 2em 0;
 }
 
 .adn-top_content-top-textcontent{

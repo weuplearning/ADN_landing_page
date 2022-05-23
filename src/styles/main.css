@@ -23,11 +23,11 @@
     margin: auto;
 }
 .adn-main-thumbnail-category {
-    border: 2px solid #2E3946;
+    background-color: #2E3946;
     display: inline;
-    padding: 0.6em 2em;
+    padding: 0.5em 1.6em;
     margin-bottom: 1em;
-    color: #2E3946;
+    color: #fff;
     border-radius: 20px;
 }
 .adn-main-thumbnail-flex_container {
@@ -40,7 +40,30 @@
 width: 300px;
 }
 .adn-main-thumbnail-title {
-    font-size: 1.8em;
+    font-size: 20px;
     color: #bb4926;
     text-align: center;
+}
+
+.adn-main-thumbnail-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #ff9900;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 15px;
+    border:3px solid #ff9900;
+    margin: 1em;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.adn-main-thumbnail-button:hover{
+    border:3px solid #f09000;
+    background-color: #f09000;
 }
