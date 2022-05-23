@@ -7,19 +7,6 @@ import {connexionTable} from '../../data/connexionTable'
 
   function Main(props) {
 
-    //quickFix to remove '0000' nodes
-    const thumbnailNodes = document.getElementsByClassName("adn-main-box")[0]
-    console.log(thumbnailNodes)
-    if (thumbnailNodes) {
-      thumbnailNodes.childNodes.forEach(node => {
-        if (node.textContent === '0') {
-          console.log(node)
-        }
-    })
-
-  }
-
-
     let data = contentData
     if (process.env.NODE_ENV !== 'development') {
       data = window.props.data
@@ -30,23 +17,24 @@ import {connexionTable} from '../../data/connexionTable'
 
     // state for type of clicked button
     const selectedCategoriesAndContent = Object.keys(props).filter(key => props[key] === true);
-    let contentCount = 0
-    let categoryCount = 0
-    let subCategoryCount = 0
+
+    let contentCount = false
+    let categoryCount = false
+    let subCategoryCount = false
     for (let element of selectedCategoriesAndContent) {
       for (let content of connexionTable["content"]) {
         if (content === element) {
-          contentCount +=1
+          contentCount = true
         }
       }
       for (let category of connexionTable["category"]) {
         if (category === element) {
-          categoryCount +=1
+          categoryCount = true
         }
       }
       for (let subCategory of connexionTable["subCategory"]) {
         if (subCategory === element) {
-          subCategoryCount +=1
+          subCategoryCount = true
         }
       }
     }
