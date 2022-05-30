@@ -5,7 +5,7 @@
 "category": "sales",
 "subCategory": "salesSub",
 "title": "Connecter votre catalogue et vos flux via un intégrateur",
-"image": "test.png",
+"image": "....",
 "publishedDate" : "2020-11-22",
 "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/6c4d14eab512451bb8476142ba187fd4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406c4d14eab512451bb8476142ba187fd4"
 
@@ -145,7 +145,7 @@
 {
 "type": "video",
 "category": "marketing",
-"subCategory": "socialNetwork",
+"subCategory": "socialNetworks",
 "title": "Comment et où construire sa communauté ?",
 "image": "....",
 "publishedDate" : "2020-11-22",
@@ -155,7 +155,7 @@
 {
 "type": "video",
 "category": "marketing",
-"subCategory": "socialNetwork",
+"subCategory": "socialNetworks",
 "title": "Pourquoi communiquer sur Instagram ?",
 "image": "....",
 "publishedDate" : "2020-11-22",
@@ -181,7 +181,12 @@
 "publishedDate" : "2020-11-22",
 "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d39b4c6f662a4925be5b620eda74719f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d39b4c6f662a4925be5b620eda74719f"
 
+
+
+
 },		
+
+
 
 {
 "type": "video",
@@ -211,7 +216,7 @@
 "subCategory": "amazon",
 "title": "Etendez votre activité locale en ligne",
 "image": "...",
-"publishedDate" : "2023-10-21",
+"publishedDate" : "2021-10-21",
 "url": "...."
 },
 {
@@ -229,7 +234,7 @@
 "subCategory": "processes",
 "title": "6 conseils pour bien gérer ses commandes omnicanales",
 "image": "....",
-"publishedDate" : "2025-10-21",
+"publishedDate" : "2021-10-21",
 "url": "...."
 },
 {

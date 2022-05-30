@@ -1,6 +1,6 @@
 import '../../styles/main.css'
 
-function Thumbnail({type, title, image}) {
+function Thumbnail({type, title, image, url}) {
 
   return <div className='adn-main-thumbnail-box'>
           <div className='adn-main-thumbnail'>
@@ -13,7 +13,12 @@ function Thumbnail({type, title, image}) {
                     <div
                     className='adn-main-thumbnail-button'
                      >
+                       <a 
+                       href={url}
+                       className='adn-main-thumbnail-button-link'
+                       >
                         Découvrir
+                      </a>
                     </div>
             </div>
           </div>

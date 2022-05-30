@@ -54,12 +54,12 @@ function Subcategory(props) {
                             <div 
                             className={startingABusiness ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setStartingABusiness(!startingABusiness)}>
-                                Starting a business
+                                Créer son entreprise
                             </div>
                             <div 
                             className={businessPlanning ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setBusinessPlanning(!businessPlanning)}>
-                                Business planning
+                                Planifier son business
                             </div>
                         </>
                     }
@@ -68,17 +68,17 @@ function Subcategory(props) {
                             <div 
                             className={growth ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setGrowth(!growth)}>
-                                Growth
+                                Acquisition
                             </div>
                             <div 
                             className={brand ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setBrand(!brand)}>
-                                Brand
+                                Image de marque
                             </div>
                             <div 
                             className={socialNetwork ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setSocialNetwork(!socialNetwork)}>
-                                Social networks
+                                Réseaux sociaux
                             </div>
                         </>
                     }
@@ -92,12 +92,12 @@ function Subcategory(props) {
                             <div 
                             className={legal ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setLegal(!legal)}>
-                                Legal
+                                Juridique
                             </div>
                             <div 
                             className={hiring ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setHiring(!hiring)}>
-                                Hiring
+                                Recrutement
                             </div>
                             <div 
                             className={management ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
@@ -111,17 +111,17 @@ function Subcategory(props) {
                             <div 
                             className={processes ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setProcesses(!processes)}>
-                                Processes
+                                Procédure de commande
                             </div>
                             <div 
                             className={shipping ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setShipping(!shipping)}>
-                                Shipping
+                                Expédition
                             </div>
                             <div 
                             className={exporting ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setExporting(!exporting)}>
-                                Exporting
+                                Exportation
                             </div>
                         </>
                     }
@@ -130,17 +130,17 @@ function Subcategory(props) {
                             <div 
                             className={sellingAProduct ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setSellingAProduct(!sellingAProduct)}>
-                                Selling a product
+                                Vendre un produit
                             </div>
                             <div 
                             className={salesSub ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setSalesSub(!salesSub)}>
-                                Sales
+                                Ventes
                             </div>
                             <div 
                             className={salesOps ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setSalesOps(!salesOps)}>
-                            Sales Ops
+                            Opérations des ventes
                             </div>
                         </>
                     }
@@ -149,12 +149,12 @@ function Subcategory(props) {
                             <div 
                             className={website ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setWebsite(!website)}>
-                                Website
+                                Site internet
                             </div>
                             <div 
                             className={data ? "adn-subcategory-button_box-button active-sub-button" : "adn-subcategory-button_box-button"} 
                             onClick={() => setData(!data)}>
-                                Data
+                                Données
                             </div>   
                         </>
                     }

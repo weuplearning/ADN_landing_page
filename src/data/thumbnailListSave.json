@@ -1,0 +1,1564 @@
+[
+    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Placer les clients au cœur de la stratégie commerciale",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/8efdc11145be42fdacf94d95eb6922ba/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408efdc11145be42fdacf94d95eb6922ba"
+
+    },
+        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Définir sa stratégie de ventes",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/21a9ffa39ce3493398f8e1259f37df52/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4021a9ffa39ce3493398f8e1259f37df52"
+
+    },
+            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Créer vos codes-barres avec GS1",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/d6de7280ec1c4453b75c4f71873f24aa/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d6de7280ec1c4453b75c4f71873f24aa"
+
+    },
+                {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "L'importance des codes-barres",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/8d57af98e0774780906995f3ef33eae8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408d57af98e0774780906995f3ef33eae8"
+
+    },
+                    {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Les conditions générales de vente",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/34b72194af5941f69ad7f5e6c9b010f7/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4034b72194af5941f69ad7f5e6c9b010f7"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Lister vos produits sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/71f04eacb0a447af831a79034d6532d5/?child=first"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "L'importance de la page produit sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/309eff1b07b649d7a44b4ab01e42c5e4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40309eff1b07b649d7a44b4ab01e42c5e4"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Comment et où construire sa communauté ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/461bdff831a74ed8821f56d619320551/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40461bdff831a74ed8821f56d619320551"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Pourquoi communiquer sur Instagram ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/0dd53b024957451cbaa1adbf45a5a317/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%400dd53b024957451cbaa1adbf45a5a317"
+
+    },
+                    {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connaître vos concurrents (par sondage)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/ba4c802e23b84e159efc7a21334a6cc5/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ba4c802e23b84e159efc7a21334a6cc5"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Respecter les règles de sécurité et de conformité sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d39b4c6f662a4925be5b620eda74719f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d39b4c6f662a4925be5b620eda74719f"
+        
+        
+        
+
+    },			   
+    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Écrire un blog et le mettre à jour",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/a1add9457d204b27bf6cd1033e584dd2/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a1add9457d204b27bf6cd1033e584dd2"
+
+    },
+                    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Écrire un communiqué de presse",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/6dff12d5a44046fbb2c8414cca0bac8b/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406dff12d5a44046fbb2c8414cca0bac8b"
+
+    },
+                    {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir le merchandising de votre site (les images)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/fb1fbf51529d4b6eb635ee59bf55b074/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40fb1fbf51529d4b6eb635ee59bf55b074"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Le support client et management des relations client",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/ee888beee8524c9abd00013e21247cc8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ee888beee8524c9abd00013e21247cc8"    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "La distribution multicanal",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/8df4caa3887244399756d426f5770d5e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408df4caa3887244399756d426f5770d5e"
+
+    },
+                        {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Les données à caractère personnel",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/313c12c8ed1b4c82b3337ad78135655f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40313c12c8ed1b4c82b3337ad78135655f"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Utiliser les commentaires de vos clients",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/6edb0d9117a2472594f6827796537fe0/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406edb0d9117a2472594f6827796537fe0"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Vendre via le drive",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/a939dbf5323f4d34b2285e6af1380069/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a939dbf5323f4d34b2285e6af1380069"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Comment fonctionne le service Expédié par Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/0271ddad8d6342a88b259cf972e08754/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%400271ddad8d6342a88b259cf972e08754"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – Amazon FBA",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/1720d5e2419d47b9b16d258773518bf7/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%401720d5e2419d47b9b16d258773518bf7"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Comment fonctionne le service Expédié par le vendeur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d948f4d926ec437e8368837895b89c75/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d948f4d926ec437e8368837895b89c75"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – Expédié par le vendeur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/7feef80b218849c0a2bc4f344afa754d/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407feef80b218849c0a2bc4f344afa754d"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – FBA Pan Européen",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/5759c302381b4ab58b7b5d6761944032/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405759c302381b4ab58b7b5d6761944032"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Vendez à travers l’Europe avec Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/34434d9756204c9cab5a35d449c87f33/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4034434d9756204c9cab5a35d449c87f33"
+
+    },
+                        {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Maitriser la facturation",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/9fae2b9321ae43df847fca7e5bc74e83/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%409fae2b9321ae43df847fca7e5bc74e83"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Transformer les clients en ambassadeurs",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/7f242eac2f3e4280af8dde9f51beaad4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407f242eac2f3e4280af8dde9f51beaad4"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connaître vos clients (par sondage)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/cf87640342c94e6db3f4038118f2cf5f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40cf87640342c94e6db3f4038118f2cf5f"
+
+    },
+                        {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Comment agir selon les retours clients",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/00a57fe180ce425d9c6d2d4fbc7dd232/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4000a57fe180ce425d9c6d2d4fbc7dd232"
+
+    },
+                        {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Comprendre l'intelligence artificielle et ses usages les plus répandus",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/eb1d853ac6314c90989cd15121a5f656/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40eb1d853ac6314c90989cd15121a5f656"
+
+    },
+                        {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir le concept de votre site",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/a0731035f37646da866f543454628bb0/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a0731035f37646da866f543454628bb0"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connecter votre catalogue et vos flux via un intégrateur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/6c4d14eab512451bb8476142ba187fd4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406c4d14eab512451bb8476142ba187fd4"
+
+    },
+                        {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "legal",
+        "title": "Les mentions légales",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/7935eebf178340358a3ad257ff3ea46a/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407935eebf178340358a3ad257ff3ea46a"
+
+    },
+                        {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Comment externaliser la conception de vos produits",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/9380da1cb21642d8a50eb2fdab0b9add/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%409380da1cb21642d8a50eb2fdab0b9add"
+
+    },
+                        {
+        "type": "cours",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "introduction : Comprendre l'enjeu du e-commerce",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/2bae6b60b8a1423382a8915610cb9737/3e9cde629311460381cc53d65e6ffa6e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%403e9cde629311460381cc53d65e6ffa6e"
+
+    },
+                        {
+        "type": "cours",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "Trouver une idée d'entreprise",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/d11647fda94745bf9e10334276815f72/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d11647fda94745bf9e10334276815f72"
+
+    },
+                        {
+        "type": "cours",
+        "category": "strategy",
+        "subCategory": "businessPlanning",
+        "title": "Créer un business plan",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/b73dc5f3eca64942aa141ff3cab0202c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b73dc5f3eca64942aa141ff3cab0202c"
+
+    },
+                        {
+        "type": "cours",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "La logistique et l'expédition des produits",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/b62c99ee71c0439dbbd4189feff515ef/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b62c99ee71c0439dbbd4189feff515ef"
+
+    },
+                        {
+        "type": "cours",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "Envoyer ses colis via un transporteur en France",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/40b7c0bbaba0484199e57f1ee87701c5/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4040b7c0bbaba0484199e57f1ee87701c5"
+
+    },
+                        {
+        "type": "cours",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "Maitriser la logistique",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/1c8eafb105c64eb6b1e9568d60785bcd/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%401c8eafb105c64eb6b1e9568d60785bcd"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "L'email marketing",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/68779891165f42deba363fa17bdd9f1a/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4068779891165f42deba363fa17bdd9f1a"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Qu'est-ce que le marketing digital ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/b2a836d2b6664f79bc4ebf313be867a8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b2a836d2b6664f79bc4ebf313be867a8"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Les principaux outils de publicité Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/dac17d13ffc94fa8bfaf11c3054ef381/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40dac17d13ffc94fa8bfaf11c3054ef381"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Les campagnes de publicités sponsorisées sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/613c03faa0904f9eab4074d9f559b191/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40613c03faa0904f9eab4074d9f559b191"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Utiliser le back-office de la marketplace Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/ac579426ce874d6cadc9fa2ab332da96/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ac579426ce874d6cadc9fa2ab332da96"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Le paiement vendeur via Amazon Payment",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/b4b2a70eaea24ee08d8956768300f567/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b4b2a70eaea24ee08d8956768300f567"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Définir et créer son identité visuelle",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/bd8fad591cd14c6a8c74579ff02af309/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40bd8fad591cd14c6a8c74579ff02af309"
+
+    },
+                        {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Créer son logo",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/8ae34eabc91e4ad6a819577205752e14/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408ae34eabc91e4ad6a819577205752e14"
+
+    },
+                        {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Vendre sur une place de marché",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/82ffb11c912c457da4d62648a4965819/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4082ffb11c912c457da4d62648a4965819"
+
+    },
+                            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Choisir entre les modèles Marketplace et Retail",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/62e189ae358d402dbde384e8238bc428/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4062e189ae358d402dbde384e8238bc428"
+
+    },
+                            {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "management",
+        "title": "Sous-traiter ou embaucher",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/25af2384925645518306caf61a887d1c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4025af2384925645518306caf61a887d1c"
+
+    },
+                            {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Déterminer combien emprunter",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/37a1fd0ffb13481eb8690b429a317c39/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4037a1fd0ffb13481eb8690b429a317c39"
+
+    },
+                                {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Comprendre les différents types de fonds disponibles",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/bd55c1eee3454276a6e79c9b5f7242a6/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40bd55c1eee3454276a6e79c9b5f7242a6"
+
+    },
+                                {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Introduction au crowndfunding",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/b0738bf3fc6b4e4986b9c26dd6176a86/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b0738bf3fc6b4e4986b9c26dd6176a86"
+
+    },
+                            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Sélectionner la meilleure option pour vendre sur internet",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/5f9de51fff454ffd93a17962982a52d2/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405f9de51fff454ffd93a17962982a52d2"
+
+    },
+                            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Anticiper les obstacles à la vente en ligne",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/ab4113d90c8940efa4cfb0430f130c4c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ab4113d90c8940efa4cfb0430f130c4c"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Comprendre le référencement naturel",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/69ac1686079146e6911f1b450d18e878/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4069ac1686079146e6911f1b450d18e878"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Introduction au référencement payant",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/eb105050c7dc4539bd95c4799557c832/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40eb105050c7dc4539bd95c4799557c832"
+
+    },
+                            {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir l'emplacement de votre site (URL)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/de7bd99f04c94efd84f5a1043baa5c1e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40de7bd99f04c94efd84f5a1043baa5c1e"
+
+    },
+                            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Fixer les prix",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/5072dfa3545a4a26b9de102cc8f303f8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405072dfa3545a4a26b9de102cc8f303f8"
+
+    },
+                            {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Décider du prix : éviter la sous-tarification",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/e7f57b24e74b49558d21d111a7577fee/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e7f57b24e74b49558d21d111a7577fee"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "La boîte d'achat",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/e1e65d2bfe6349a38c9ad1353520da06/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e1e65d2bfe6349a38c9ad1353520da06"
+
+    },
+                            {
+        "type": "cours",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Prévoir ses flux de trésorerie",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/e8182c69ab834fcb9699ec545a3e5297/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e8182c69ab834fcb9699ec545a3e5297"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Comment développer votre business à l'aide de Facebook Ads",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/67a9714c59264976bf6ddee50886fb15/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4067a9714c59264976bf6ddee50886fb15"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Quels types de publication pour vendre sur Instagram ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/2689c610706e402aaa5fe3022e82bb92/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%402689c610706e402aaa5fe3022e82bb92"
+
+    },
+                            {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Analyser les campagnes de publicités sur les réseaux sociaux",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/c1aa4959c94d42228d0693f9fd7bde6e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40c1aa4959c94d42228d0693f9fd7bde6e"
+
+    },
+                            {
+        "type": "cours",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir l'architecture de votre site",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/c4457ae185954ef99392111683bd7f17/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40c4457ae185954ef99392111683bd7f17"
+
+    },
+        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Placer les clients au cœur de la stratégie commerciale",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/8efdc11145be42fdacf94d95eb6922ba/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408efdc11145be42fdacf94d95eb6922ba"
+
+    },
+        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Définir sa stratégie de ventes",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/21a9ffa39ce3493398f8e1259f37df52/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4021a9ffa39ce3493398f8e1259f37df52"
+
+    },
+            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Créer vos codes-barres avec GS1",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/d6de7280ec1c4453b75c4f71873f24aa/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d6de7280ec1c4453b75c4f71873f24aa"
+
+    },
+                {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "L'importance des codes-barres",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/8d57af98e0774780906995f3ef33eae8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408d57af98e0774780906995f3ef33eae8"
+
+    },
+                    {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Les conditions générales de vente",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/34b72194af5941f69ad7f5e6c9b010f7/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4034b72194af5941f69ad7f5e6c9b010f7"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Lister vos produits sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/71f04eacb0a447af831a79034d6532d5/?child=first"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "L'importance de la page produit sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/309eff1b07b649d7a44b4ab01e42c5e4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40309eff1b07b649d7a44b4ab01e42c5e4"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Comment et où construire sa communauté ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/461bdff831a74ed8821f56d619320551/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40461bdff831a74ed8821f56d619320551"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Pourquoi communiquer sur Instagram ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/0dd53b024957451cbaa1adbf45a5a317/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%400dd53b024957451cbaa1adbf45a5a317"
+
+    },
+                    {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connaître vos concurrents (par sondage)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/ba4c802e23b84e159efc7a21334a6cc5/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ba4c802e23b84e159efc7a21334a6cc5"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Respecter les règles de sécurité et de conformité sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d39b4c6f662a4925be5b620eda74719f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d39b4c6f662a4925be5b620eda74719f"
+        
+        
+        
+
+    },		
+
+
+    
+    {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Écrire un blog et le mettre à jour",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/a1add9457d204b27bf6cd1033e584dd2/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a1add9457d204b27bf6cd1033e584dd2"
+
+    },
+                    {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Écrire un communiqué de presse",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/6dff12d5a44046fbb2c8414cca0bac8b/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406dff12d5a44046fbb2c8414cca0bac8b"
+
+    },
+                    {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir le merchandising de votre site (les images)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/fb1fbf51529d4b6eb635ee59bf55b074/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40fb1fbf51529d4b6eb635ee59bf55b074"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Le support client et management des relations client",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/ee888beee8524c9abd00013e21247cc8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ee888beee8524c9abd00013e21247cc8"    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "La distribution multicanal",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/8df4caa3887244399756d426f5770d5e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408df4caa3887244399756d426f5770d5e"
+
+    },
+                        {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Les données à caractère personnel",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/313c12c8ed1b4c82b3337ad78135655f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40313c12c8ed1b4c82b3337ad78135655f"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Utiliser les commentaires de vos clients",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/6edb0d9117a2472594f6827796537fe0/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406edb0d9117a2472594f6827796537fe0"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Vendre via le drive",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/a939dbf5323f4d34b2285e6af1380069/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a939dbf5323f4d34b2285e6af1380069"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Comment fonctionne le service Expédié par Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/0271ddad8d6342a88b259cf972e08754/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%400271ddad8d6342a88b259cf972e08754"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – Amazon FBA",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/1720d5e2419d47b9b16d258773518bf7/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%401720d5e2419d47b9b16d258773518bf7"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Comment fonctionne le service Expédié par le vendeur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d948f4d926ec437e8368837895b89c75/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d948f4d926ec437e8368837895b89c75"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – Expédié par le vendeur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/7feef80b218849c0a2bc4f344afa754d/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407feef80b218849c0a2bc4f344afa754d"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Témoignage vendeur – FBA Pan Européen",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/5759c302381b4ab58b7b5d6761944032/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405759c302381b4ab58b7b5d6761944032"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Vendez à travers l’Europe avec Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/34434d9756204c9cab5a35d449c87f33/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4034434d9756204c9cab5a35d449c87f33"
+
+    },
+                        {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Maitriser la facturation",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/9fae2b9321ae43df847fca7e5bc74e83/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%409fae2b9321ae43df847fca7e5bc74e83"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Transformer les clients en ambassadeurs",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/7f242eac2f3e4280af8dde9f51beaad4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407f242eac2f3e4280af8dde9f51beaad4"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connaître vos clients (par sondage)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/cf87640342c94e6db3f4038118f2cf5f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40cf87640342c94e6db3f4038118f2cf5f"
+
+    },
+                        {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Comment agir selon les retours clients",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/00a57fe180ce425d9c6d2d4fbc7dd232/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4000a57fe180ce425d9c6d2d4fbc7dd232"
+
+    },
+                        {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Comprendre l'intelligence artificielle et ses usages les plus répandus",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/eb1d853ac6314c90989cd15121a5f656/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40eb1d853ac6314c90989cd15121a5f656"
+
+    },
+                        {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir le concept de votre site",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/a0731035f37646da866f543454628bb0/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a0731035f37646da866f543454628bb0"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Connecter votre catalogue et vos flux via un intégrateur",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/6c4d14eab512451bb8476142ba187fd4/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406c4d14eab512451bb8476142ba187fd4"
+
+    },
+                        {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "legal",
+        "title": "Les mentions légales",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/7935eebf178340358a3ad257ff3ea46a/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%407935eebf178340358a3ad257ff3ea46a"
+
+    },
+                        {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Comment externaliser la conception de vos produits",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/9380da1cb21642d8a50eb2fdab0b9add/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%409380da1cb21642d8a50eb2fdab0b9add"
+
+    },
+                        {
+        "type": "video",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "introduction : Comprendre l'enjeu du e-commerce",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/2bae6b60b8a1423382a8915610cb9737/3e9cde629311460381cc53d65e6ffa6e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%403e9cde629311460381cc53d65e6ffa6e"
+
+    },
+                        {
+        "type": "video",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "Trouver une idée d'entreprise",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/d11647fda94745bf9e10334276815f72/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d11647fda94745bf9e10334276815f72"
+
+    },
+                        {
+        "type": "video",
+        "category": "strategy",
+        "subCategory": "businessPlanning",
+        "title": "Créer un business plan",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/b73dc5f3eca64942aa141ff3cab0202c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b73dc5f3eca64942aa141ff3cab0202c"
+
+    },
+                        {
+        "type": "video",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "La logistique et l'expédition des produits",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/b62c99ee71c0439dbbd4189feff515ef/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b62c99ee71c0439dbbd4189feff515ef"
+
+    },
+                        {
+        "type": "video",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "Envoyer ses colis via un transporteur en France",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/40b7c0bbaba0484199e57f1ee87701c5/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4040b7c0bbaba0484199e57f1ee87701c5"
+
+    },
+                        {
+        "type": "video",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "Maitriser la logistique",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/324a2af01ccf425198f4c482f6bad867/1c8eafb105c64eb6b1e9568d60785bcd/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%401c8eafb105c64eb6b1e9568d60785bcd"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "L'email marketing",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/68779891165f42deba363fa17bdd9f1a/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4068779891165f42deba363fa17bdd9f1a"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Qu'est-ce que le marketing digital ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/b2a836d2b6664f79bc4ebf313be867a8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b2a836d2b6664f79bc4ebf313be867a8"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Les principaux outils de publicité Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/dac17d13ffc94fa8bfaf11c3054ef381/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40dac17d13ffc94fa8bfaf11c3054ef381"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Les campagnes de publicités sponsorisées sur Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/613c03faa0904f9eab4074d9f559b191/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40613c03faa0904f9eab4074d9f559b191"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Utiliser le back-office de la marketplace Amazon",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/ac579426ce874d6cadc9fa2ab332da96/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ac579426ce874d6cadc9fa2ab332da96"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Le paiement vendeur via Amazon Payment",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/b4b2a70eaea24ee08d8956768300f567/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b4b2a70eaea24ee08d8956768300f567"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Définir et créer son identité visuelle",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/bd8fad591cd14c6a8c74579ff02af309/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40bd8fad591cd14c6a8c74579ff02af309"
+
+    },
+                        {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Créer son logo",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/8ae34eabc91e4ad6a819577205752e14/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%408ae34eabc91e4ad6a819577205752e14"
+
+    },
+                        {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Vendre sur une place de marché",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/82ffb11c912c457da4d62648a4965819/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4082ffb11c912c457da4d62648a4965819"
+
+    },
+                            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Choisir entre les modèles Marketplace et Retail",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/477661c4a8fe4e45a9e93b1763072db4/62e189ae358d402dbde384e8238bc428/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4062e189ae358d402dbde384e8238bc428"
+
+    },
+                            {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "management",
+        "title": "Sous-traiter ou embaucher",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/25af2384925645518306caf61a887d1c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4025af2384925645518306caf61a887d1c"
+
+    },
+                            {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Déterminer combien emprunter",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/37a1fd0ffb13481eb8690b429a317c39/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4037a1fd0ffb13481eb8690b429a317c39"
+
+    },
+                                {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Comprendre les différents types de fonds disponibles",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/bd55c1eee3454276a6e79c9b5f7242a6/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40bd55c1eee3454276a6e79c9b5f7242a6"
+
+    },
+                                {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Introduction au crowndfunding",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/b0738bf3fc6b4e4986b9c26dd6176a86/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40b0738bf3fc6b4e4986b9c26dd6176a86"
+
+    },
+                            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Sélectionner la meilleure option pour vendre sur internet",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/5f9de51fff454ffd93a17962982a52d2/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405f9de51fff454ffd93a17962982a52d2"
+
+    },
+                            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "salesSub",
+        "title": "Anticiper les obstacles à la vente en ligne",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/ab4113d90c8940efa4cfb0430f130c4c/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ab4113d90c8940efa4cfb0430f130c4c"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Comprendre le référencement naturel",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/69ac1686079146e6911f1b450d18e878/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4069ac1686079146e6911f1b450d18e878"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Introduction au référencement payant",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/eb105050c7dc4539bd95c4799557c832/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40eb105050c7dc4539bd95c4799557c832"
+
+    },
+                            {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir l'emplacement de votre site (URL)",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/de7bd99f04c94efd84f5a1043baa5c1e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40de7bd99f04c94efd84f5a1043baa5c1e"
+
+    },
+                            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Fixer les prix",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/5072dfa3545a4a26b9de102cc8f303f8/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%405072dfa3545a4a26b9de102cc8f303f8"
+
+    },
+                            {
+        "type": "video",
+        "category": "sales",
+        "subCategory": "sellingAProduct",
+        "title": "Décider du prix : éviter la sous-tarification",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/e1e4ef475d8c43be91a1b5957831d158/e7f57b24e74b49558d21d111a7577fee/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e7f57b24e74b49558d21d111a7577fee"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "La boîte d'achat",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/e1e65d2bfe6349a38c9ad1353520da06/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e1e65d2bfe6349a38c9ad1353520da06"
+
+    },
+                            {
+        "type": "video",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Prévoir ses flux de trésorerie",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/f4a1adc7717442198aa7905c1fb09a12/e8182c69ab834fcb9699ec545a3e5297/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40e8182c69ab834fcb9699ec545a3e5297"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Comment développer votre business à l'aide de Facebook Ads",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/67a9714c59264976bf6ddee50886fb15/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%4067a9714c59264976bf6ddee50886fb15"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Quels types de publication pour vendre sur Instagram ?",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/2689c610706e402aaa5fe3022e82bb92/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%402689c610706e402aaa5fe3022e82bb92"
+
+    },
+                            {
+        "type": "video",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Analyser les campagnes de publicités sur les réseaux sociaux",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/ceb026c57240442aa654d68da6a69be8/c1aa4959c94d42228d0693f9fd7bde6e/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40c1aa4959c94d42228d0693f9fd7bde6e"
+
+    },
+                            {
+        "type": "video",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Choisir l'architecture de votre site",
+        "image": "....",
+        "publishedDate" : "2020-11-22",
+        "url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0f66f955b49c4488bed61cc0c1a2e58e/c4457ae185954ef99392111683bd7f17/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40c4457ae185954ef99392111683bd7f17"
+
+    },
+
+    {
+        "type": "webinaire",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Etendez votre activité locale en ligne",
+        "image": "...",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "50 minutes pour engager 500 leads",
+        "image": "...",
+        "publishedDate" : "2021-10-21",
+        "url": "..."
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Fidélisez vos clients avec Customer eXperience (Re)Design",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Financer son projet grâce à sa communauté: et si vous faisiez appel au crowdfunding ?",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+    {
+        "type": "webinaire",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "le cyber risque pour les petites entreprises",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+    {
+        "type": "webinaire",
+        "category": "operations",
+        "subCategory": "shipping",
+        "title": "Augmenter son chiffre d'affaires e-commerce grâce à la logistique ",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+    {
+        "type": "webinaire",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "Comment faire un bon Pitch",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "Valider votre projet en testant votre marché : la stratégie MVP",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "Les 10 erreurs d'un entrepreneur qui se lance dans le e-commerce",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "De Start-up à Scale-up, comment financer son développement",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "corporate",
+        "subCategory": "legal",
+        "title": "La propriété intellectuelle : subventions et services pour les PME en UE",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "tech",
+        "subCategory": "data",
+        "title": "Comment valoriser vos données et utiliser l'IA ?",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "strategy",
+        "subCategory": "startingABusiness",
+        "title": "comment créer son entreprise simplement en ligne",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "brand",
+        "title": "Déterminer son identité de Marque",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+        {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Tout savoir sur LinkedIn",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "socialNetworks",
+        "title": "Social ads : stratégie de conquête et retour sur investissement",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Apprenez à optimiser votre référencement sur les moteurs de recherche !",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "10 Best Practices SEO/SEA pour lancer son e-commerce",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Comment faire de son site web un outil de marketing efficace ? avec La Porte s'Ouvre",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },	    
+    {
+        "type": "webinaire",
+        "category": "operations",
+        "subCategory": "processes",
+        "title": "6 conseils pour bien gérer ses commandes omnicanales",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "tech",
+        "subCategory": "webSite",
+        "title": "Mettre en place une méthodologie UX & Product Design efficace",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+            {
+        "type": "webinaire",
+        "category": "corporate",
+        "subCategory": "finance",
+        "title": "Cash is king",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    },
+                {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Lead generation",
+        "image": "....",
+        "publishedDate" : "2021-10-21",
+        "url": "...."
+    }
+]

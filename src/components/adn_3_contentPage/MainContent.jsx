@@ -11,103 +11,104 @@ import {connexionTable} from '../../data/connexionTable'
     if (process.env.NODE_ENV !== 'development') {
       data = window.props.data
     }
-
     // state for number of thumbnail displayed
-    const [count, setCount] = useState(9);
+    const [totalCount, setTotalCount] = useState(9);
 
-    // state for type of clicked button
+    // state for type of clicked button 
     const selectedCategoriesAndContent = Object.keys(props).filter(key => props[key] === true);
 
-    let contentCount = false
-    let categoryCount = false
-    let subCategoryCount = false
-    for (let element of selectedCategoriesAndContent) {
-      for (let content of connexionTable["content"]) {
-        if (content === element) {
-          contentCount = true
-        }
-      }
-      for (let category of connexionTable["category"]) {
-        if (category === element) {
-          categoryCount = true
-        }
-      }
-      for (let subCategory of connexionTable["subCategory"]) {
-        if (subCategory === element) {
-          subCategoryCount = true
-        }
-      }
+
+    // create a new data Array for each situation
+    let dataFinalArray = data
+
+    let clickedButtons = {
+      content : [],
+      category: [],
+      subcategory: []
     }
 
+    const setClickedButtons = (element) => {
+
+      if (connexionTable.content.includes(element)) {
+        clickedButtons.content.push(element)
+        } 
+        else if (connexionTable.category.includes(element) ) {
+        clickedButtons.category.push(element)
+      }
+        else if (connexionTable.subCategory.includes(element)) {
+ 
+          clickedButtons.subcategory.push(element)
+        }
+    }
+
+    selectedCategoriesAndContent.forEach(element => {
+      setClickedButtons(element)
+    });
+
+
+    if (clickedButtons.content.length && !clickedButtons.category.length) {
+      dataFinalArray = data.filter(function (element)
+      { 
+        return clickedButtons.content.includes(element.type)
+      });
+    } 
+    else if (clickedButtons.content.length && clickedButtons.category.length && !clickedButtons.subcategory.length) {
+      dataFinalArray = data.filter(function (element)
+      { 
+        return clickedButtons.content.includes(element.type) &&
+               clickedButtons.category.includes(element.category)
+      });
+    }
+    else if (!clickedButtons.content.length && clickedButtons.category.length && !clickedButtons.subcategory.length) {
+      dataFinalArray = data.filter(function (element)
+      { 
+        return clickedButtons.category.includes(element.category)
+      });
+    }
+    else if (!clickedButtons.content.length && clickedButtons.category.length && clickedButtons.subcategory.length) {
+      dataFinalArray = data.filter(function (element)
+      { 
+        return clickedButtons.category.includes(element.category) &&
+               clickedButtons.subcategory.includes(element.subCategory)
+      });
+    }
+    else if (clickedButtons.content.length && clickedButtons.category.length && clickedButtons.subcategory.length) {
+      dataFinalArray = data.filter(function (element)
+      { 
+        return clickedButtons.content.includes(element.type) &&
+               clickedButtons.category.includes(element.category) &&
+               clickedButtons.subcategory.includes(element.subCategory)
+      });
+    }
+
+    // sort by date
+    dataFinalArray.sort(function(a,b){
+      return new Date(b.publishedDate) - new Date(a.publishedDate);
+    });
 
     return ( <div className='adn-main-and-footer'>
         <div className='adn-main'>
           <div className='adn-main-box'>
           {
-            data.map(({type, category, subCategory, title, image }, index) => 
-            index < count ? (
-            (!contentCount && !categoryCount && !subCategoryCount && 
+            dataFinalArray.map(({type, title, image, url }, index) => 
+            index < totalCount &&
               <Thumbnail
                   key={type + index}
                   type={type}
                   title={title}
                   image={image}
+                  url={url}
                 />
-              )
-            || (contentCount && !categoryCount && props[type] &&   
-                <Thumbnail
-                  key={type + index}
-                  type={type}
-                  title={title}
-                  image={image}
-                />
-            )
-            ||  (contentCount && categoryCount && !subCategoryCount && (props[type] && props[category]) &&
-              <Thumbnail
-                  key={type + index}
-                  type={type}
-                  title={title}
-                  image={image}
-                />
-            )
-            ||  (!contentCount && categoryCount && !subCategoryCount && props[category] &&
-              <Thumbnail
-                  key={type + index}
-                  type={type}
-                  title={title}
-                  image={image}
-                />
-            )
-            ||  (!contentCount && categoryCount && subCategoryCount && props[category] && props[subCategory] && 
-              <Thumbnail
-                  key={type + index}
-                  type={type}
-                  title={title}
-                  image={image}
-                />
-            )
-            ||  (contentCount && categoryCount && subCategoryCount && (props[type] && (props[category] && props[subCategory])) &&
-            <Thumbnail
-                  key={type + index}
-                  type={type}
-                  title={title}
-                  image={image}
-                />
-            )
-            ): null
             )
           }
-
           </div>
         </div>
         <Footer
-        count={count}
-        setCount={setCount}
+        totalCount={totalCount}
+        setTotalCount={setTotalCount}
       />
   </div>)
 
 }
 
 export default Main
-
-// TODO faire un childNodes et detecter type text et supprimer pour les 0000

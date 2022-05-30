@@ -49,3 +49,8 @@
     color: #fff;
     background-color: #bb4926;
 }
+
+.adn-main-thumbnail-button-link{
+    color: inherit;
+    text-decoration: none;
+}

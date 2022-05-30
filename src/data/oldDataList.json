@@ -1,0 +1,156 @@
+[
+    {
+        "type": "cours",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Amazon Web Service",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2020-11-21",
+        "tags": "AWS"
+
+    },
+    {
+        "type": "cours",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Placer les clients au cœur de la stratégie commerciale",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2020-11-22",
+        "tags": "business plan"
+
+    },
+    {
+        "type": "cours",
+        "category": "sales",
+        "subCategory": "sales",
+        "title": "Définir sa stratégie de ventes",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2022-11-22",
+        "tags": "business plan"
+
+    },
+    {
+"type": "video",
+"category": "marketing",
+"subCategory": "socialNetworks",
+"title": "Pourquoi communiquer sur Instagram ?",
+"image": "....",
+"publishedDate" : "2020-11-22",
+"url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/0dd53b024957451cbaa1adbf45a5a317/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%400dd53b024957451cbaa1adbf45a5a317"
+
+},
+{
+"type": "video",
+"category": "sales",
+"subCategory": "salesSub",
+"title": "Connaître vos concurrents (par sondage)",
+"image": "....",
+"publishedDate" : "2020-11-22",
+"url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/0fe505ec4c564d7f83d0196f7ed4d4fa/ba4c802e23b84e159efc7a21334a6cc5/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40ba4c802e23b84e159efc7a21334a6cc5"
+
+},
+{
+"type": "video",
+"category": "marketplace",
+"subCategory": "amazon",
+"title": "Respecter les règles de sécurité et de conformité sur Amazon",
+"image": "....",
+"publishedDate" : "2020-11-22",
+"url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/b19ee03665924ee6bee6fe070ce30a5a/d39b4c6f662a4925be5b620eda74719f/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40d39b4c6f662a4925be5b620eda74719f"
+},		
+
+
+
+{
+"type": "video",
+"category": "marketing",
+"subCategory": "brand",
+"title": "Écrire un blog et le mettre à jour",
+"image": "....",
+"publishedDate" : "2020-11-22",
+"url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/92e28314e1eb437e968e89d72b9a4238/a1add9457d204b27bf6cd1033e584dd2/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%40a1add9457d204b27bf6cd1033e584dd2"
+
+},
+{
+"type": "video",
+"category": "marketing",
+"subCategory": "brand",
+"title": "Écrire un communiqué de presse",
+"image": "....",
+"publishedDate" : "2020-11-22",
+"url": "https://www.accelerateur-du-numerique.fr/courses/course-v1:amazon+amazon001+SP/courseware/3d3d51fccaac4a969e7563f866cc6ef2/6dff12d5a44046fbb2c8414cca0bac8b/?activate_block_id=block-v1%3Aamazon%2Bamazon001%2BSP%2Btype%40sequential%2Bblock%406dff12d5a44046fbb2c8414cca0bac8b"
+
+},
+    {
+        "type": "webinaire",
+        "category": "marketplace",
+        "subCategory": "amazon",
+        "title": "Etendez votre activité locale en ligne",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2020-10-21",
+        "tags": "boutiques Amazon"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    },
+    {
+        "type": "webinaire",
+        "category": "marketing",
+        "subCategory": "growth",
+        "title": "Gagnez de nouveaux clients avec l’Acquisition Strategy Design",
+        "image": "simulateur_img.png",
+        "publishedDate" : "2019-10-21",
+        "tags": "acquisition clients"
+    }
+]

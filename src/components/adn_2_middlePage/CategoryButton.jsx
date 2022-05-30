@@ -101,7 +101,7 @@ function Category(props) {
                         <div 
                         className={strategy ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'}
                          onClick={() => resetButtonsState("strategy", setStrategy)}>
-                            Strategy
+                            Stratégie
                         </div>
                         <div 
                         className={marketing ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'}
@@ -111,17 +111,17 @@ function Category(props) {
                         <div
                         className={corporate ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
                          onClick={() => resetButtonsState("corporate", setCorporate)}>
-                            Corporate
+                            Gestion d'entreprise
                         </div>
                         <div
                         className={operations ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
                          onClick={() => resetButtonsState("operations", setOperations)}>
-                            Operations
+                            Gestion des opérations
                         </div>
                         <div
                         className={sales ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
                          onClick={() => resetButtonsState("sales", setSales)}>
-                            Sales
+                            Ventes
                         </div>
                         <div
                         className={tech ? 'adn-category-button_box-button button-active' : 'adn-category-button_box-button'} 
@@ -133,43 +133,6 @@ function Category(props) {
                          onClick={() => resetButtonsState("marketplace", setMarketplace)}>
                             Marketplace
                         </div>
-                    {/* <ThemeProvider theme={theme}>
-                        <Button style={buttonStyle} 
-                        variant={strategy ? "contained" : "outlined"} 
-                        color="primary" onClick={() => resetButtonsState("strategy", setStrategy)}>
-                            Strategy
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={marketing ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("marketing", setMarketing)}>
-                            Marketing
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={corporate ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("corporate", setCorporate)}>
-                            Corporate
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={operations ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("operations", setOperations)}>
-                            Operations
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={sales ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("sales", setSales)}>
-                            Sales
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={tech ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("tech", setTech)}>
-                            Tech
-                        </Button>
-                        <Button style={buttonStyle} 
-                        variant={marketplace ? "contained" : "outlined"}  
-                        color="primary" onClick={() => resetButtonsState("marketplace", setMarketplace)}>
-                            Marketplace
-                        </Button>
-                    </ThemeProvider> */}
                 </div>
                 <Subcategory
                 strategy={strategy}

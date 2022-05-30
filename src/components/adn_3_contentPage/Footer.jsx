@@ -25,13 +25,12 @@ const theme = createTheme({
     color:'#ff9900'
   };
 
-function Footer({count, setCount}) {
+function Footer({totalCount, setTotalCount}) {
 
   let imgSource = backgroundFooter
 	if (process.env.NODE_ENV !== 'development') {
 		imgSource = window.props.images.footer
 	}
-
 
 	return <div className='adn-footer' style={{ backgroundImage: `url(${imgSource})` }}>
                     <ThemeProvider theme={theme}>
@@ -40,7 +39,7 @@ function Footer({count, setCount}) {
                         className='adn-footerl-button' 
                         variant="contained" 
                         color="primary"
-                        onClick={() => setCount(count + 9)}
+                        onClick={() => setTotalCount(totalCount + 9)}
                         >
                             Voir plus
                         </Button>
