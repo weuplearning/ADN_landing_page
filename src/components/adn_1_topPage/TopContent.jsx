@@ -7,11 +7,9 @@ function TopContent() {
 
     let imgSourceBGT = backgroundTop
     let imgSourceBGB = backgroundBottom
-    let imgSourceS = simulateur
 	if (process.env.NODE_ENV !== 'development') {
 		imgSourceBGT = window.props.images.bgTop
         imgSourceBGB = window.props.images.bgBottom
-        imgSourceS = window.props.images.simulateur
 	}
 	return <div className='adn-top_content' >
         <div className='adn-top_content-top' style={{ backgroundImage: `url(${imgSourceBGT})` }}>
@@ -26,7 +24,7 @@ function TopContent() {
         </div>
         <div className='adn-top_content-bottom' style={{ backgroundImage: `url(${imgSourceBGB})` }}>
             <h2 className='adn-top_content-bottom-title'>Testez notre simulateur pour avoir des recommandations personnalisées !</h2>
-                {/* <img className='adn-top_content-bottom-image-image' src={imgSourceS}  alt='simulateur'></img> */}
+                {/* <img className='adn-top_content-bottom-image-image' src={simulateur}  alt='simulateur'></img> */}
                 <iframe class="scorm_object" src="/media/microsites/amazon/simulateur/story.html" width="100%" height="450" data-dashlane-frameid="600"></iframe>
         </div>
     </div>

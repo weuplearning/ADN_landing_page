@@ -29,6 +29,7 @@
     margin-bottom: 1em;
     color: #fff;
     border-radius: 20px;
+    text-transform: capitalize;
 }
 .adn-main-thumbnail-flex_container {
     display: flex;
@@ -46,6 +47,7 @@
     font-size: 20px;
     color: #bb4926;
     text-align: center;
+    height: 100px;
 }
 
 .adn-main-thumbnail-button {
