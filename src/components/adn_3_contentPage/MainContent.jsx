@@ -7,6 +7,13 @@ import {connexionTable} from '../../data/connexionTable'
 
   function Main(props) {
 
+    // Test for webinaire page
+    // let window = {
+    //   props : {
+    //     type : "webinaire"
+    //   }
+    // }
+
     let data = contentData
     if (process.env.NODE_ENV !== 'development') {
       data = window.props.data
@@ -40,12 +47,21 @@ import {connexionTable} from '../../data/connexionTable'
           clickedButtons.subcategory.push(element)
         }
     }
+    
+    if (window) {
+      if (window.props) {
+        if (window.props.type === 'webinaire') {
+          clickedButtons.content = 'webinaire'
+        }
+      }
+    }
+
 
     selectedCategoriesAndContent.forEach(element => {
       setClickedButtons(element)
     });
 
-
+    console.log(clickedButtons)
     if (clickedButtons.content.length && !clickedButtons.category.length) {
       dataFinalArray = data.filter(function (element)
       { 
